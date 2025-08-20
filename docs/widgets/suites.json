@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"40002050a22d5fa435f93e11b78ce1a2","name":"Rest API Tests Suite","statistic":{"failed":0,"broken":0,"skipped":0,"passed":6,"unknown":0,"total":6}},{"uid":"0caf077e8cdbe78e1c70f2e8c887f99b","name":"SOAP API Tests Suite","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}

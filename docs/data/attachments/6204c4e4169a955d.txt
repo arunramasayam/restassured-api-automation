@@ -1,0 +1,72 @@
+[
+    {
+        "id": 8075618,
+        "name": "Triloki Nath Achari Jr.",
+        "email": "jr_nath_triloki_achari@ferry.test",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 8075613,
+        "name": "Sen. Jay Kaniyar",
+        "email": "kaniyar_jay_sen@bartell-crooks.example",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 8075612,
+        "name": "Chandak Varman",
+        "email": "varman_chandak@breitenberg.test",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 8075611,
+        "name": "Mr. Chakravartee Embranthiri",
+        "email": "chakravartee_embranthiri_mr@krajcik.example",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 8075610,
+        "name": "Ujjawal Bharadwaj",
+        "email": "ujjawal_bharadwaj@stanton-abbott.example",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 8075609,
+        "name": "Rev. Kirti Khanna",
+        "email": "rev_khanna_kirti@wehner.test",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 8075608,
+        "name": "Kalinda Dwivedi",
+        "email": "kalinda_dwivedi@hoppe-graham.example",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 8074749,
+        "name": "Adwitiya Chopra JD",
+        "email": "chopra_jd_adwitiya@lowe.example",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 8074748,
+        "name": "Gautam Shah",
+        "email": "shah_gautam@mraz-kshlerin.example",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 8074746,
+        "name": "Mrs. Bhamini Talwar",
+        "email": "mrs_talwar_bhamini@schinner.example",
+        "gender": "male",
+        "status": "active"
+    }
+]
