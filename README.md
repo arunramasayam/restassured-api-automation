@@ -27,6 +27,13 @@ The framework is designed to be:
 
 ---
 
+## 🎯 Live Test Reports
+**👉 [View Latest Test Results](https://arunramasayam.github.io/restassured-api-automation/)**
+
+*Click above to see detailed Allure test reports with interactive charts and test analysis*  
+
+---
+
 ## Project Structure
 ```bash
 src/test/java/com/arunreddy/restassured/
