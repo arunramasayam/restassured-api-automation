@@ -51,7 +51,7 @@ src/test/java/com/arunreddy/restassured/
 1. Clone the repo
 ```bash
 git clone https://github.com/arunramasayam/restassured-api-automation.git
-cd <repo-name>
+cd restassured-api-automation
 ```
 
 2. Install dependencies
