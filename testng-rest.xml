@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Rest API Tests Suite">
+    <listeners>
+        <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
+    </listeners>
+    
+    <test name="User Management APIs">
+        <classes>
+            <class name="com.arunreddy.restassured.tests.CreateUserTest"/>
+            <class name="com.arunreddy.restassured.tests.DeleteUserTest"/>
+            <class name="com.arunreddy.restassured.tests.GetUserDetailsTest"/>
+            <class name="com.arunreddy.restassured.tests.GetUsersTest"/>
+            <class name="com.arunreddy.restassured.tests.UpdateUserTest"/>
+            <class name="com.arunreddy.restassured.tests.PatchUserTest"/>
+        </classes>
+    </test>
+</suite>
