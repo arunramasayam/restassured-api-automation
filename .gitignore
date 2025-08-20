@@ -1,0 +1,25 @@
+# Maven / Java
+target/
+*.class
+*.log
+*.jar
+*.war
+*.ear
+
+# IDE / Editor files (Eclipse, VSCode, IntelliJ)
+.settings/
+.classpath
+.project
+.factorypath
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Allure raw results
+.allure/
+allure-results/
+test-output/
