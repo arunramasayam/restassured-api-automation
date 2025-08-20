@@ -1,8 +1,0 @@
-"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
-"0","User Management","0","Delete User","1","0","Delete a user successfully","0"
-"0","User Management","0","Create New User API","1","0","Create a new user successfully","0"
-"0","User Management","0","Get a User Details","1","0","Get User details successfully","0"
-"0","User Management","0","Update User details","1","0","Update User details successfully","0"
-"0","User Management","0","Get All Users List","1","0","Get all users list succesfully","0"
-"0","User Management","0","Patch User Details","1","0","Patch User details successfully","0"
-"0","Basic Calculator","0","Add Two Number","1","0","Add Two Numbers successfully","0"

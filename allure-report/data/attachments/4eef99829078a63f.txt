@@ -1,1 +1,0 @@
-{"name":"Arunreddy","gender":"male","email":"arunreddy20082025103421@test.com","status":"active"}

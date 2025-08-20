@@ -1,7 +1,0 @@
-{
-    "name": "Arunareddy",
-    "status": "inactive",
-    "id": 8076699,
-    "email": "arunreddy20082025103441@test.com",
-    "gender": "male"
-}
